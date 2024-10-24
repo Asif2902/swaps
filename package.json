@@ -102,6 +102,9 @@
       "last 1 safari version"
     ]
   },
+  "engines": {
+  "node": "16.x"
+  },
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@crowdin/crowdin-api-client": "^1.8.16",
