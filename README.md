@@ -1,4 +1,3 @@
-![swaps](https://swaps.vercel.app/images/Swaps.png)
 
 ## Intro
 
